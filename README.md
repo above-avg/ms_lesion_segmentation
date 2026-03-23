@@ -8,9 +8,7 @@
 ---
 
 ### Quantitative Performance Overview
-| FLAIR Input | Expert Ground Truth | AI Ensemble Prediction |
-| :---: | :---: | :---: |
-| ![FLAIR](results/clinical_sample_50.png) | ![GT](results/clinical_sample_50.png) | ![Pred](results/clinical_sample_50.png) |
+![FLAIR](results/clinical_sample_50.png)
 
 > **Note:** The above visual demonstrates the high specificity of the ensemble model in the periventricular regions, successfully distinguishing lesions from cerebrospinal fluid signals.
 
