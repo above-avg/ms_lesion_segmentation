@@ -33,7 +33,6 @@ The project followed a rigorous research trajectory to address clinical bottlene
 * `src/`: Core Python implementation for preprocessing, training, and ensemble evaluation.
 * `checkpoints/`: Trained model weights for all 5 folds (Stored via Git LFS).
 * `results/`: Quantitative reports and visual error analysis (False Negative Analysis).
-* `docs/`: Formal research proposals and technical documentation.
 
 ## Installation and Usage
 1. Clone the repository: `git clone https://github.com/above-avg/ms_lesion_segmentation.git`
