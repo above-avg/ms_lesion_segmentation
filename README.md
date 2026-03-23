@@ -1,8 +1,7 @@
 # Automated MS Lesion Segmentation via Multi-modal 2.5D UNet++
 
 **Authors:** Pallab Sarangi, Shreyas Baloni  
-**Affiliation:** RNS Institute of Technology (RNSIT)  
-**Research Partner:** St. John's Research Institute (SJRI)  
+**Affiliation:** RNS Institute of Technology (RNSIT)   
 **License:** Apache 2.0
 
 ---
