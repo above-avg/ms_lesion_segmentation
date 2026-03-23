@@ -1,0 +1,4 @@
+,Model,Mean Dice Score
+0,unet,0.3491094410419464
+1,resunet,0.0
+2,attention_unet,0.479018896818161

@@ -1,0 +1,4 @@
+,Metric,Value,Clinical Interpretation
+0,Dice Similarity Coefficient (DSC),0.5328,Overlap between prediction and gold standard
+1,Sensitivity (Lesion Recall),0.4779,Ability to detect all present lesions
+2,Specificity (Background Accuracy),0.9991,Ability to avoid false positives (healthy tissue)
