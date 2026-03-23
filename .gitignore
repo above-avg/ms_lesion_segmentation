@@ -1,0 +1,23 @@
+# Data and Medical Images
+dataset/
+processed_2d/
+sota_data/
+*.nii
+*.nii.gz
+*.npy
+*.zip
+
+# Virtual Environments
+mri/
+venv/
+env/
+__pycache__/
+
+# Model Weights (Handled by Git LFS)
+*.pth
+
+# Documentation and Temporary Files
+.~lock.*
+.DS_Store
+out/
+outputs/
