@@ -21,3 +21,6 @@ __pycache__/
 .DS_Store
 out/
 outputs/
+
+# Exclude local documentation
+docs/
