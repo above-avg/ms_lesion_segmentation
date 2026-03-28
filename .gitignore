@@ -23,4 +23,6 @@ out/
 outputs/
 
 # Exclude local documentation
-docs/
+docs/*.pt
+*.ckpt
+lightning_logs/**/checkpoints/
