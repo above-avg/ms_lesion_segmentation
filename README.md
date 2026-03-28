@@ -33,7 +33,7 @@ The project followed a rigorous research trajectory to address clinical bottlene
 | 5 | **UNet++ / EfficientNet v1** | `UNetPP_EfficientNet/` | Pretrained EfficientNet encoder + dense nested skip connections | — |
 | 6 | **UNet++ / EfficientNet v2** | `UNetPP_EfficientNet/` | Balanced pos/neg slice sampling + Cosine LR + Dice-Focal loss | — |
 | 7 | **UNet++ 2.5D** | `UNetPP_25D/` | Custom multi-modal 2.5D stacking, ResBlocks, DiceFocal loss | **0.5882** |
-| 8 | **UNet++ 2.5D Ensemble** | `UNetPP_25D/` | 5-Fold ensemble of the above + volumetric TLL correlation | **0.5949** |
+| 8 | **UNet++ 2.5D Ensemble** | `src/` | 5-Fold ensemble of the above + volumetric TLL correlation | **0.5949** |
 
 > **Note:** Details for architectures 3–6 are recorded in their respective notebooks. Architecture 8 additionally achieves a **Total Lesion Load (TLL) volumetric correlation of r = 0.9063** (p < 2.34 × 10⁻⁵⁸) against human gold standards.
 
