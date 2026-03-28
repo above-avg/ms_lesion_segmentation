@@ -57,7 +57,7 @@ Switching to a pretrained EfficientNet backbone with nested dense skip connectio
 
 The final SOTA architecture replaced the pretrained backbone with a **custom-built 2.5D UNet++** using ResBlocks, removing ImageNet-oriented inductive biases.
 
-### Model Architecture: `UNetPlusPlus_25D`
+### Model Architecture:
 The model implements a **2.5D multi-modal approach**:
 
 **Input Construction**
